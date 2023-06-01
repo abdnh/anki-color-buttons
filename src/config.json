@@ -1,0 +1,16 @@
+{
+    "text_colors": [
+        {
+            "color": "red",
+            "shortcut": "Ctrl+Shift+R"
+        },
+        {
+            "color": "green",
+            "shortcut": "Ctrl+Shift+G"
+        },
+        {
+            "color": "blue",
+            "shortcut": "Ctrl+Shift+B"
+        }
+    ]
+}

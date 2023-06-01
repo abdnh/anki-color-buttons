@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "text_colors": {
+            "type": "array",
+            "items": {
+                "color": {
+                    "type": "string"
+                },
+                "shortcut": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
