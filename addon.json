@@ -1,6 +1,7 @@
 {
     "name": "More color buttons in the editor",
     "package": "more_color_buttons",
-    "homepage": "https://github.com/abdnh/anki-addon-template",
-    "min_point_version": 22
+    "homepage": "https://github.com/abdnh/anki-color-buttons",
+    "min_point_version": 22,
+    "ankiweb_id": "312062643"
 }
